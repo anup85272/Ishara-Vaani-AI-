@@ -1,0 +1,8 @@
+{
+  "name": "IsharaVaani AI",
+  "description": "A high-end Sign Language Recognition and Translation platform designed to bridge the gap between the Deaf community and the hearing world using AI-powered hand tracking and generative AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
